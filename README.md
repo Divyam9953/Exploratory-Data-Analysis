@@ -2,3 +2,4 @@
 
 Exploring IPL Datasets for different analysis.
 
+![](ipl.jpg)
