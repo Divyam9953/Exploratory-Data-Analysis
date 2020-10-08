@@ -1,5 +1,4 @@
 # Exploratory-Data-Analysis
 
-Exploring IPL Datasets for different analysis.
+Exploring Data to serve Analysis part.
 
-![](ipl.jpg)
